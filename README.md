@@ -17,4 +17,4 @@ done
 if you want to run it again use python -m flask run instead of pip install flask && python -m flask run
 ```
 
-# now add you files to static
+# now add your website files to static folder
