@@ -1,2 +1,2 @@
-python3 -m flask run
+python main.py
 pause
