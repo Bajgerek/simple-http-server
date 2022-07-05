@@ -1,3 +1,3 @@
-pip install -r requirements.txt
-python3 -m flask run
+pip install flask
+python -m flask run
 pause
